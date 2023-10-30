@@ -1,8 +1,8 @@
 ## About College Information Management System
-**College Information Management System**. College can manage student & staff detail with the different helpful module.
-Fees, Payroll, Transaction, Library, Hostel, Attendance, Transport, Assignment, Download, SMS & Email Alert, Online Payment Gateway, User and Role manage with powerful ACL
+**College Information Management System** The college can manage student and staff details with the different helpful modules.
+Fees, Payroll, Transaction, Library, Hostel, Attendance, Transport, Assignment, Download, SMS & Email Alert, Online Payment Gateway, User and Role Management with powerful ACL
 
-## Test IMS Demo (Some Features Disable on Demo)
+## Test IMS Demo (Some Features Disabled on Demo)
 URL: http://soft.businesswithtechnology.com 
 Admin Login:
 User: admin@edufirm.com 
@@ -22,7 +22,7 @@ Password: 123
 Student Login:
 User: student@edufirm.com 
 Password: 123
-Test Web Site Demo (Some Features Disable on Demo)
+Test Web Site Demo (Some Features Disabled on Demo)
 URL: http://scweb.businesswithtechnology.com 
 Admin Login:
 URL: http://scweb.businesswithtechnology.com/login 
