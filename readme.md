@@ -1,3 +1,4 @@
+<!--
 ## About Unlimited Edu Firm
 **Unlimited Edu Firm is School & College Information Management System**. School or College can manage student & staff detail with the different helpful module.
 Fees, Payroll, Transaction, Library, Hostel, Attendance, Transport, Assignment, Download, SMS & Email Alert, Online Payment Gateway, User and Role manage with powerful ACL are the Key features of EduFirm. 
@@ -30,3 +31,5 @@ User: webadmin@edufirm.com
 Password: 123
 
 ## EduFirm School & College Web Portal CMS - CodeCanyon Item for Sale
+--->
+
